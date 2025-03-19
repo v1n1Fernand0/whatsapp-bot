@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhatsApp Bot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📨 <span class="highlight">WhatsApp Bot</span></h1>
+        <p>Status: <span id="status" class="status-indicator">Desconectado</span></p>
+
+        <label for="number">📞 Número do WhatsApp:</label>
+        <input type="text" id="number" placeholder="Ex: 5511999999999">
+
+        <label for="message">💬 Mensagem:</label>
+        <textarea id="message" placeholder="Digite a mensagem..."></textarea>
+
+        <button id="sendButton">Enviar Mensagem</button>
+        <p id="response"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

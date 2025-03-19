@@ -1,0 +1,47 @@
+2025/03/19-19:58:05.377 3bc Reusing MANIFEST C:\Users\vinic\OneDrive\Área de Trabalho\whats\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/19-19:58:05.378 3bc Recovering log #1005
+2025/03/19-19:58:05.414 3bc Reusing old log C:\Users\vinic\OneDrive\Área de Trabalho\whats\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001005.log 
+2025/03/19-19:58:06.934 c64 Level-0 table #1034: started
+2025/03/19-19:58:06.945 c64 Level-0 table #1034: 251764 bytes OK
+2025/03/19-19:58:06.947 c64 Delete type=0 #1005
+2025/03/19-19:58:06.948 c64 Manual compaction at level-0 from '\x003\x00\x00\x00' @ 72057594037927935 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at '\x003\x00\x00\x05' @ 3787221 : 1
+2025/03/19-19:58:06.948 c64 Compacting 1@0 + 1@1 files
+2025/03/19-19:58:06.961 c64 Generated table #1035@0: 5259 keys, 111740 bytes
+2025/03/19-19:58:06.965 c64 Generated table #1036@0: 115 keys, 7710 bytes
+2025/03/19-19:58:06.967 c64 Generated table #1037@0: 108 keys, 5465 bytes
+2025/03/19-19:58:06.967 c64 Compacted 1@0 + 1@1 files => 124915 bytes
+2025/03/19-19:58:06.969 c64 compacted to: files[ 0 3 29 0 0 0 0 ]
+2025/03/19-19:58:06.969 c64 Delete type=2 #1034
+2025/03/19-19:58:06.970 c64 Manual compaction at level-0 from '\x003\x00\x00\x05' @ 3787221 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/19-19:58:08.743 16ec Compacting 1@1 + 10@2 files
+2025/03/19-19:58:08.782 16ec Generated table #1038@1: 2604 keys, 2153957 bytes
+2025/03/19-19:58:08.865 16ec Generated table #1039@1: 26937 keys, 2237624 bytes
+2025/03/19-19:58:08.934 16ec Generated table #1040@1: 24515 keys, 2281284 bytes
+2025/03/19-19:58:09.024 16ec Generated table #1041@1: 28978 keys, 2260638 bytes
+2025/03/19-19:58:09.078 16ec Generated table #1042@1: 11132 keys, 2171708 bytes
+2025/03/19-19:58:09.114 16ec Generated table #1043@1: 2378 keys, 2120415 bytes
+2025/03/19-19:58:09.144 16ec Generated table #1044@1: 788 keys, 2116232 bytes
+2025/03/19-19:58:09.210 16ec Generated table #1045@1: 45943 keys, 2176322 bytes
+2025/03/19-19:58:09.328 16ec Generated table #1046@1: 109788 keys, 2260693 bytes
+2025/03/19-19:58:09.427 16ec Generated table #1047@1: 109556 keys, 2261415 bytes
+2025/03/19-19:58:09.431 16ec Generated table #1048@1: 435 keys, 9372 bytes
+2025/03/19-19:58:09.431 16ec Compacted 1@1 + 10@2 files => 22049660 bytes
+2025/03/19-19:58:09.432 16ec compacted to: files[ 0 2 30 0 0 0 0 ]
+2025/03/19-19:58:09.433 16ec Delete type=2 #986
+2025/03/19-19:58:09.433 16ec Delete type=2 #1009
+2025/03/19-19:58:09.433 16ec Delete type=2 #1010
+2025/03/19-19:58:09.433 16ec Delete type=2 #1011
+2025/03/19-19:58:09.433 16ec Delete type=2 #1012
+2025/03/19-19:58:09.433 16ec Delete type=2 #1013
+2025/03/19-19:58:09.433 16ec Delete type=2 #1014
+2025/03/19-19:58:09.433 16ec Delete type=2 #1015
+2025/03/19-19:58:09.433 16ec Delete type=2 #1016
+2025/03/19-19:58:09.433 16ec Delete type=2 #1017
+2025/03/19-19:58:09.433 16ec Delete type=2 #1018
+2025/03/19-19:58:09.433 16ec Delete type=2 #1036
+2025/03/19-19:58:09.900 c64 Compacting 1@1 + 2@2 files
+2025/03/19-19:58:10.753 c64 Generated table #1049@1: 56718 keys, 2224457 bytes
+2025/03/19-19:58:10.952 c64 Generated table #1050@1: 2758 keys, 2157913 bytes
+2025/03/19-19:58:10.971 c64 Generated table #1051@1: 21 keys, 35936 bytes
+2025/03/19-19:58:10.971 c64 Compacted 1@1 + 2@2 files => 4418306 bytes
+2025/03/19-19:58:10.979 c64 compacted to: files[ 0 1 31 0 0 0 0 ]

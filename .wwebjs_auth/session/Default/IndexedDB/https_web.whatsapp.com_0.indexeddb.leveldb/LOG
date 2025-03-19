@@ -1,0 +1,73 @@
+2025/03/19-20:05:31.117 5604 Reusing MANIFEST C:\Users\vinic\OneDrive\Área de Trabalho\whats\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/19-20:05:31.118 5604 Recovering log #1033
+2025/03/19-20:05:31.164 5604 Reusing old log C:\Users\vinic\OneDrive\Área de Trabalho\whats\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001033.log 
+2025/03/19-20:05:31.164 5604 Delete type=2 #1021
+2025/03/19-20:05:31.164 5604 Delete type=2 #1022
+2025/03/19-20:05:31.164 5604 Delete type=2 #1035
+2025/03/19-20:05:32.893 3dcc Level-0 table #1054: started
+2025/03/19-20:05:32.906 3dcc Level-0 table #1054: 331041 bytes OK
+2025/03/19-20:05:32.907 3dcc Delete type=0 #1033
+2025/03/19-20:05:32.908 3dcc Manual compaction at level-0 from '\x004\x00\x00\x00' @ 72057594037927935 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at '\x004\x00\x00\x05' @ 3798946 : 1
+2025/03/19-20:05:32.908 3dcc Compacting 1@0 + 1@1 files
+2025/03/19-20:05:32.923 3dcc Generated table #1055@0: 6617 keys, 141734 bytes
+2025/03/19-20:05:32.927 3dcc Generated table #1056@0: 147 keys, 18013 bytes
+2025/03/19-20:05:32.930 3dcc Generated table #1057@0: 128 keys, 6834 bytes
+2025/03/19-20:05:32.930 3dcc Compacted 1@0 + 1@1 files => 166581 bytes
+2025/03/19-20:05:32.932 3dcc compacted to: files[ 0 3 31 0 0 0 0 ]
+2025/03/19-20:05:32.933 3dcc Delete type=2 #1054
+2025/03/19-20:05:32.933 3dcc Manual compaction at level-0 from '\x004\x00\x00\x05' @ 3798946 : 1 .. '\x005\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/19-20:05:34.752 3dcc Compacting 1@1 + 10@2 files
+2025/03/19-20:05:34.800 3dcc Generated table #1058@1: 2602 keys, 2152523 bytes
+2025/03/19-20:05:34.912 3dcc Generated table #1059@1: 26891 keys, 2236788 bytes
+2025/03/19-20:05:35.028 3dcc Generated table #1060@1: 24514 keys, 2280432 bytes
+2025/03/19-20:05:35.144 3dcc Generated table #1061@1: 28972 keys, 2260442 bytes
+2025/03/19-20:05:35.191 3dcc Generated table #1062@1: 11228 keys, 2172151 bytes
+2025/03/19-20:05:35.225 3dcc Generated table #1063@1: 2382 keys, 2123728 bytes
+2025/03/19-20:05:35.254 3dcc Generated table #1064@1: 788 keys, 2114525 bytes
+2025/03/19-20:05:35.361 3dcc Generated table #1065@1: 45376 keys, 2176004 bytes
+2025/03/19-20:05:35.518 3dcc Generated table #1066@1: 109928 keys, 2263510 bytes
+2025/03/19-20:05:35.632 3dcc Generated table #1067@1: 109571 keys, 2261460 bytes
+2025/03/19-20:05:35.635 3dcc Generated table #1068@1: 422 keys, 8989 bytes
+2025/03/19-20:05:35.635 3dcc Compacted 1@1 + 10@2 files => 22050552 bytes
+2025/03/19-20:05:35.636 3dcc compacted to: files[ 0 2 32 0 0 0 0 ]
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1037
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1038
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1039
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1040
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1041
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1042
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1043
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1044
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1045
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1046
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1047
+2025/03/19-20:05:35.636 3dcc Delete type=2 #1056
+2025/03/19-20:05:35.661 29fc Compacting 1@1 + 5@2 files
+2025/03/19-20:05:35.778 29fc Generated table #1069@1: 57239 keys, 2225059 bytes
+2025/03/19-20:05:35.815 29fc Generated table #1070@1: 3497 keys, 2158306 bytes
+2025/03/19-20:05:35.843 29fc Generated table #1071@1: 939 keys, 2140152 bytes
+2025/03/19-20:05:35.874 29fc Generated table #1072@1: 1094 keys, 2144039 bytes
+2025/03/19-20:05:35.878 29fc Generated table #1073@1: 27 keys, 70555 bytes
+2025/03/19-20:05:35.878 29fc Compacted 1@1 + 5@2 files => 8738111 bytes
+2025/03/19-20:05:35.879 29fc compacted to: files[ 0 1 32 0 0 0 0 ]
+2025/03/19-20:05:55.586 3dcc Compacting 1@1 + 6@2 files
+2025/03/19-20:05:55.738 3dcc Generated table #1074@1: 109572 keys, 2260825 bytes
+2025/03/19-20:05:55.853 3dcc Generated table #1075@1: 109909 keys, 2262662 bytes
+2025/03/19-20:05:55.976 3dcc Generated table #1076@1: 109687 keys, 2261554 bytes
+2025/03/19-20:05:56.185 3dcc Generated table #1077@1: 109456 keys, 2260930 bytes
+2025/03/19-20:05:56.305 3dcc Generated table #1078@1: 83934 keys, 1753586 bytes
+2025/03/19-20:05:56.305 3dcc Compacted 1@1 + 6@2 files => 10799557 bytes
+2025/03/19-20:05:56.306 3dcc compacted to: files[ 0 0 31 0 0 0 0 ]
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1000
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1001
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1002
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1003
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1019
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1020
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1023
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1024
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1049
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1050
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1051
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1055
+2025/03/19-20:05:56.307 3dcc Delete type=2 #1057
